@@ -54,7 +54,7 @@ Otherwise:
 
 > “Forest remains closed.”
 
-![HuntMe2_1](https://github.com/shionxva/CaptureTheFlag_shionsWU/blob/main/NexHunt%20CTF%202025/Huntme2(1).png?raw=true)
+![HuntMe2_1](https://github.com/shionxva/CaptureTheFlag_shionsWU/blob/main/NexHunt%20CTF%202025/images/Huntme2(1).png?raw=true)
 
 ---
 
@@ -113,7 +113,7 @@ Meaning:
 - `+3` is a constant offset  
 - `% 7` wraps into the valid range of each 7-byte string  
 
-![HuntMe2_2](https://github.com/shionxva/CaptureTheFlag_shionsWU/blob/main/NexHunt%20CTF%202025/Huntme2(2).png?raw=true)
+![HuntMe2_2](https://github.com/shionxva/CaptureTheFlag_shionsWU/blob/main/NexHunt%20CTF%202025/images/Huntme2(2).png?raw=true)
 
 ### 4.3 Per-Iteration Mix
 
@@ -156,7 +156,7 @@ mask[i] =
 
 This makes the mask nonlinear and dependent on position `i`.
 
-![HuntMe2_3](https://github.com/shionxva/CaptureTheFlag_shionsWU/blob/main/NexHunt%20CTF%202025/Huntme2(3).png?raw=true)
+![HuntMe2_3](https://github.com/shionxva/CaptureTheFlag_shionsWU/blob/main/NexHunt%20CTF%202025/images/Huntme2(3).png?raw=true)
 
 ---
 

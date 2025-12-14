@@ -54,7 +54,7 @@ Otherwise:
 
 > “Forest remains closed.”
 
-![HuntMe2_1](https://github.com/shionxva/CaptureTheFlag_shionsWU/blob/main/NexHunt%20CTF%202025/images/Huntme2(0).png?raw=true)
+![HuntMe2_1](https://github.com/shionxva/CaptureTheFlag_shionsWU/blob/main/NexHunt%20CTF%202025/images/HuntMe2(0).png?raw=true)
 
 ---
 
